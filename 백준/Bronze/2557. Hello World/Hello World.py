@@ -1,7 +1,7 @@
 """
 * Project Name : Baekjoon Online Judge #2557
 * Program Purpose and Basic Features :
-* - handwritten digits recognition machine learning
+* - BOJ-Python #2557
 * Program Author : JaeHyun Kim
 * Date of original creation : 2024.01.02
 * ==========================================================================
